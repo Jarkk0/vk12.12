@@ -1,3 +1,5 @@
+//assets maker @joviaalartist
+
 (function() {
   
     var renderer = PIXI.autoDetectRenderer(660, 660, {backgroundColor: 0x34495e, antialias: true});
